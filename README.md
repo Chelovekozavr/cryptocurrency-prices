@@ -1,7 +1,7 @@
 # cryptocurrency-prices
 To see the demo click [link here](https://chelovekozavr.github.io/cryptocurrency-prices/)
 
-STACK: VueJS, Sass, Axios
+STACK: VueJS, Sass, Axios, ChartJS
 
 API: https://min-api.cryptocompare.com/documentation
 
